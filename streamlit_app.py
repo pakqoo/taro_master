@@ -127,7 +127,7 @@ features_card = {
 }
 
 # --- GENERAL SETTINGS ---
-PAYPAL_CHECKOUT = "http://tarotmaster.pakqoostudio.com:3000"
+PAYPAL_CHECKOUT = "http://tarot.pakqoostudio.com:3000"
 # PAYPAL_CHECKOUT = "http://localhost:3000"
 CONTACT_EMAIL = "pakqoostudio1@hotmail.com"
 
